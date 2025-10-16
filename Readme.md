@@ -1,9 +1,9 @@
-# I HAVE COMPLETED THE BANDIT LEVELS UPTO 15 LEVELS AND GIT EXCERICES 6 LEVELS 
+# I HAVE COMPLETED THE BANDIT LEVELS UPTO 12 LEVELS AND GIT EXCERICES 9 LEVELS 
 
-# BANDIT - UPTO 15 LEVELS
+# BANDIT - UPTO 12 LEVELS
 
 # Overview
-this repository  contains the bandit level codes upto 15 levels of bandit and 10 levels of git excerices
+This repository  contains the bandit level codes upto 12 levels of bandit and 9 levels of git excerices
 
 ### Platform
 [OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
