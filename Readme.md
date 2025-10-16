@@ -5,11 +5,7 @@
 # Overview
 This repository  contains the bandit level codes upto 12 levels of bandit and 9 levels of git excerices
 
-### Platform
-[OverTheWire Bandit](https://overthewire.org/wargames/bandit/)
-[git excercises](https://gitexercises.fracz.com/)
-
-#Bandit levels
+# Bandit levels
 
 ### Key Commands Learned
 ```bash
