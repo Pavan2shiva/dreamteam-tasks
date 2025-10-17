@@ -1,0 +1,13 @@
+#I have idea that these datatypes are mainly used for shopping cart
+
+1)String (str) – Used to store product names, user names, and descriptions.
+
+2)Integer (int) – Used for product IDs, quantities, and counts.
+
+3)Float (float) – Used for prices, discounts, and total amounts.
+
+4)Boolean (True/False) – Used to check conditions like login status or stock availability.
+
+5)List [list] – Used to store multiple items in the shopping cart.
+
+
